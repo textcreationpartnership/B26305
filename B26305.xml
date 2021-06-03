@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The loyal remonstrance.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26305</idno><idno type="EEBO-CITATION">99888420</idno>
+  <idno type="VID">201768</idno>
+  <idno type="EEBO-PROQUEST">2240898514</idno>
+  
+            <idno type="STC">Wing L3362</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.12[194]</idno>
+            <idno type="STC">ESTC R229761</idno>
+            <idno type="PROQUEST">ocm99888420</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888420e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26305)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201768)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C26:3[194])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The loyal remonstrance.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Palmer in Fleet-street,,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1661..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="topical_term">Restorations, Political --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201768:1"/>
+            <head>The Loyal REMONSTRANCE.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas some as poor in <hi>Spirit</hi> as <hi>Loyalty,</hi> crippled in Judgement as well as Fortune, have in pitifull Metre presumed to shew their <hi>lame feet</hi> to his <hi>Majesty</hi> and both Houses, We who are the true Rubbish of <hi>Loyal</hi> Ruines, would not be raised to offend the Eyes of <hi>Authority,</hi> though not only made Cripples, but beaten with our Crutches, formerly made bare, to be now exposed to the Lash; while, by the advantage of our <hi>Gold, Idols</hi> are reared in High Places; who like those of the Heathen, would ever want Eyes and Ears, could we alwayes descend to be their Votaries: yet we are content to do penance for being ravished; who can think every Murmur an Apostasie, which may exceed all Acts of Grace or Oblivion. We never supposed <hi>Loyalty</hi> Merit, and are so much <hi>Protestants,</hi> that we cannot believe, either in our Duty to <hi>God,</hi> or Allegiance to the <hi>King,</hi> there can be works of Super-erogation; nor are we troubled, if the Prodigals, at their Return (who have fed so long on the husks of <hi>Error</hi>) are clothed by the Father of our Countrey with the best Coats, (nay, if even our own) while we their Elder Brothers in <hi>Loyalty</hi> go as naked as the Truth we professe, and exposed to as much scorn. If they who came in at the latter end of the day receive their Peny, we complain not with those in the <hi>Gospel,</hi> though in worse condition, both unrewarded and Penilesse; Our Eyes <hi>have seen the salvation of the Lord,</hi> in the Return of a most <hi>Gracious KING,</hi> and we have assured hope of our Peny, in our own Salvation by the <hi>King of Kings.</hi> Wanting all things, we have nothing to petition for beside his Honour, and our Princes Safety. Who had no Prayers above the restoring of our <hi>King,</hi> have now no Desires above a Restoring of the <hi>Church,</hi> by a Return of the <hi>Bishops</hi> to their just Votes in <hi>Parliament;</hi> humbly conceiving, could they be Excluded in <hi>Justice,</hi> they might be admitted in <hi>Equity;</hi> since these Fathers of the <hi>Church</hi> may not seem lesse requisite Advisers for the <hi>Gospel,</hi> then our Judges for the <hi>Law,</hi> unlesse <hi>Religion</hi> is the only thing the Great <hi>Chuncil</hi> is inconcerned in; or Reverend <hi>Learning</hi> and Sober <hi>Piety,</hi> are supposed prejudicial to that Honourable Assembly. Thus Security may be given for the <hi>Act of Oblivion,</hi> the Blood of our <hi>Martyr'd Soveraign</hi> and our own, may not seem spilt in vain; Righteousnesse and Justice may re-attend the Grand Council; Truth and Peace may re-unite in the King<g ref="char:EOLhyphen"/>dom; Tumult and Faction may be discountenanced, while the breach is made up, which was an In-let to all the Misery and Confusion which attended <hi>Church</hi> and <hi>State.</hi> Thus <hi>Episcopacy,</hi> the greatest Remedy against <hi>Schism</hi> prevailing, <hi>Knowledge, Moderation, Piety</hi> or <hi>Power,</hi> may convince <hi>Error,</hi> restore <hi>Weaknesse,</hi> convert <hi>Scandal,</hi> curb <hi>Sedition,</hi> that all may be of one Heart, one Minde, use one Form of <hi>Prayer</hi> with us, for Kings, and all who are in Autho<g ref="char:EOLhyphen"/>rity, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>William Palmer</hi> in <hi>Fleet-street,</hi> 1661.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
